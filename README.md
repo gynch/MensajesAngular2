@@ -1,4 +1,4 @@
-# MensajesAngular2
+# Paso de mensajes en Angular 2
 Ejemplo de paso de mensajes entre nodos en Angular
 
 Este proyecto es una pequeña aplicación que hice para comprender cómo se pasan mensajes entre componentes en Angular.
